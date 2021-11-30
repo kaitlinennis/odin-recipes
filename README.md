@@ -1,11 +1,11 @@
 # odin-recipes
 This project is a basic recipe website that links to various recipes.
+The recipes used were referenced from https://www.allrecipes.com/
+
 In this project I will have demonstrated the usage of many
-HTML elements to form the structure of a basic website with various pages.
-This project lets me practice using anchor elements to link to other 
-pages on my website. I am also able to embed images in my webpages
-and use attributes for my link and image elements. I show the use of
-header elements to indicate the importance of various text headings.
-I also utilize lists to show unordered and ordered lists my webpages
-using the necessary elements and proper tags.
-I am able to structure my website with the mentioned html elements.
+HTML elements to form the structure of a basic website with various webpages.
+This project lets me refresh my memory of basic html by practicing and 
+using various html elements to build a basic website. In this project 
+I practice using these elements to link to other pages on
+my website, embed images, use headings and paragraphs, as well as 
+utilize ordered and unordered lists with the proper tags.
