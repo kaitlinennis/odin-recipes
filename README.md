@@ -10,4 +10,4 @@ I practice using these elements to link to other pages on
 my website, embed images, use headings and paragraphs, as well as 
 utilize ordered and unordered lists with the proper tags.
 
-Link to my recipes website: https://kaitlinennis.github.io/odin-recipes/index.html
+Link to my recipes website: https://kaitlinennis.github.io/odin-recipes/
